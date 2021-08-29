@@ -1,1 +1,1 @@
-The respective projects detects Pneumonia with the fundamental idea of image processing using deep learning techniques. Dataset source is from the following website:https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+The respective projects detects Pneumonia with the fundamental idea of image processing using deep learning techniques. Dataset source is from the following website: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
